@@ -17,6 +17,11 @@
   background: black;
 }
 
+.background-about {
+  height: 100vh;
+  color: white;
+}
+
 
 .navbar {
   display: flex;
@@ -126,4 +131,10 @@ p {
   width: 500px;
   height: 500px;
   background: white;
+}
+
+.about-header {
+  color: black;
+  text-align: center;
+  padding-top: 50px;
 }
