@@ -245,6 +245,12 @@ p {
   border: 5px solid white;
 }
 
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* .close {
   background: black;
 } */
