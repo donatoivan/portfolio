@@ -31,7 +31,7 @@ h1 {
   
 .background-about {
   height: 100vh;
-  color: rgb(233, 232, 232);
+  color: #FFFEFF;
 }
 
 .background-contact {
@@ -278,4 +278,36 @@ p {
   height: 300px;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
+}
+
+.me-photo {
+  height:500px;
+  width: 400px;
+  /* transform: rotate(90deg); */
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.about-text {
+  height: 500px;
+  width: 700px;
+  /* background: red; */
+  font-size: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* align-items: flex-end; */
+  text-align: right;
+}
+
+.blue-text {
+  color: black;
+}
+
+.colored {
+  color: black;
 }
