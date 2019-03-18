@@ -96,6 +96,11 @@ ul {
   margin: 0;
   color: white;
 }
+
+.white-text {
+  margin: 0;
+  color: white;
+}
   
 .name-span {
   display: flex;
