@@ -51,10 +51,19 @@ h1 {
   text-decoration: none;
   color: white;
   margin-right: 22px;
-  margin-top: 
+  list-style: none;
 }
 
-a.nav-item:hover {
+ul {
+  display: flex;
+  margin: 0px;
+}
+
+.a-header {
+  color: white;
+}
+
+li a:hover {
   color: rgb(46, 46, 46);
   text-decoration: none;
 }
@@ -62,15 +71,19 @@ a.nav-item:hover {
 .logo {
   color: #CACACA;
   text-decoration: none;
-  font-size: 2em
+  font-size: 40px;
 }
 
 .logo-rest {
   color: #CACACA;
   text-decoration: none;
-  font-size: 2em;
+  font-size: 40px;
   margin-left: 15px;
   margin-top: 10px;
+}
+
+i.home {
+  margin-top: 16px;
 }
 
 .logo-rest:hover {
@@ -82,6 +95,13 @@ a.nav-item:hover {
   /* transform: scale(1.1); */
 }
 
+.work-nav {
+  display: flex;
+  width: 54%;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+}
 
   
 .about-content {
@@ -93,28 +113,9 @@ a.nav-item:hover {
   padding-left: 15px;
 }
   
-.greeting {
-  margin: 0;
-  color: white;
-}
-
 .white-text {
   margin: 0;
   color: white;
-}
-
-.work-nav {
-  display: flex;
-  width: 54%;
-  justify-content: space-between;
-  align-items: center;
-}
-  
-.name-span {
-  display: flex;
-  flex-direction: column;
-  color: rgb(233, 232, 232);
-  font-size: 4em;
 }
    
 .content-container {
@@ -282,7 +283,6 @@ a.nav-item:hover {
 }
 
 .modal-title {
-  /* background: black; */
   color: white;
   font-size: 20px;
   margin-left: 10px;
@@ -292,12 +292,6 @@ a.nav-item:hover {
   height: 300px;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
-}
-
-.me-photo {
-  height:500px;
-  width: 400px;
-  /* transform: rotate(90deg); */
 }
 
 .about-container {
@@ -310,12 +304,10 @@ a.nav-item:hover {
 .about-text {
   height: 500px;
   width: 700px;
-  /* background: red; */
   font-size: 35px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  /* align-items: flex-end; */
   text-align: right;
 }
 
