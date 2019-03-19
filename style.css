@@ -1,7 +1,3 @@
-/* html {
-  /* background-image: linear-gradient(to right,  #898989 , #C5C5C5); */
-
-
 * {
   margin: 0;
   font-family: 'Roboto', serif;
@@ -74,6 +70,10 @@ li a:hover {
   font-size: 40px;
 }
 
+.logo:hover {
+  color: rgb(46, 46, 46);
+}
+
 .logo-rest {
   color: #CACACA;
   text-decoration: none;
@@ -82,28 +82,19 @@ li a:hover {
   margin-top: 10px;
 }
 
-i.home {
-  margin-top: 16px;
-}
-
 .logo-rest:hover {
   color: rgb(46, 46, 46);
-}
-  
-.logo:hover {
-  color: rgb(46, 46, 46);
-  /* transform: scale(1.1); */
 }
 
 .work-nav {
   display: flex;
-  width: 54%;
+  /* width: 54%; */
+  width: 100%;
   justify-content: space-between;
   align-items: center;
   height: 90px;
 }
-
-  
+ 
 .about-content {
   display: flex;
   height: 425px;
@@ -111,6 +102,10 @@ i.home {
   align-items: flex-end;
   font-size: 35px;
   padding-left: 15px;
+}
+
+.paragraphs {
+  margin-bottom: 25px;
 }
   
 .white-text {
@@ -209,18 +204,21 @@ i.home {
   color: #393436;
   text-align: center;
   padding-top: 20px;
+  margin-right: 38px;
 }
 
 .about-header {
   color: black;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 20px;
+  margin-right: 38px;
 }
 
 .contact-header {
   color: white;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 20px;
+  margin-right: 38px;
 }
 
 .overlay {
@@ -295,8 +293,8 @@ i.home {
 
 .work1-gif {
   height: 300px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%); Safari 6.0 - 9.0 */
+  /* filter: grayscale(100%); */
 }
 
 .about-container {
