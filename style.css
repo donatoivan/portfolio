@@ -15,17 +15,15 @@ h1 {
   font-size: 2rem;
 }
   
+/* Background */
+
 .background-container-home {
   height: 100vh;
-  /* background-image: linear-gradient(to right,  #898989 , #C5C5C5); */
   background: #AFAFAF;
 }
   
 .background-container-work {
   height: 100vh;
-  /* background: black; */
-  /* background: #393436; */
-  /* background: white; */
   background: #F1F0F1
 }
   
@@ -36,52 +34,55 @@ h1 {
 
 .background-contact {
   height: 100vh;
-  /* background-image: linear-gradient(to right,  #898989 , #C5C5C5); */
   background: #AFAFAF;
 }
-  
+
+/* Navbar */
   
 .navbar {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  height: 40px;
-  padding-top: 22px;
-  padding-right: 8px;
-  font-size: 18px;
+  height: 90px;
+  padding: 0px 16px;
+  font-size: 20px;
 }
-  
-ul {
-  list-style: none;  
-}
-  
-.nav-links {
-  display: flex;
-}
-  
-.nav-item a {
-  display: inline-block;
-  padding: 10px 15px;
+
+.nav-item {
   text-decoration: none;
-  /* color: rgb(233, 232, 232); */
   color: white;
+  margin-right: 22px;
+  margin-top: 
 }
-  
+
+a.nav-item:hover {
+  color: rgb(46, 46, 46);
+  text-decoration: none;
+}
+   
 .logo {
   color: #CACACA;
   text-decoration: none;
   font-size: 2em
 }
+
+.logo-rest {
+  color: #CACACA;
+  text-decoration: none;
+  font-size: 2em;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.logo-rest:hover {
+  color: rgb(46, 46, 46);
+}
   
 .logo:hover {
-  color: black;
+  color: rgb(46, 46, 46);
   /* transform: scale(1.1); */
 }
-  
-.nav-item a:hover {
-  color: black;
-  transform: scale(1.1);
-}
+
+
   
 .about-content {
   display: flex;
@@ -100,6 +101,13 @@ ul {
 .white-text {
   margin: 0;
   color: white;
+}
+
+.work-nav {
+  display: flex;
+  width: 54%;
+  justify-content: space-between;
+  align-items: center;
 }
   
 .name-span {
@@ -122,7 +130,7 @@ ul {
   grid-row: 1 / 4;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
   
 .work2 {
@@ -130,7 +138,7 @@ ul {
   grid-row: 1 / 4;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .work3 {
@@ -138,7 +146,7 @@ ul {
   grid-row: 1 / 4;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
   
 .work1-content {
@@ -154,6 +162,7 @@ ul {
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
 }
+
 
 .work2-photo {
   width: 100%;
@@ -193,7 +202,7 @@ ul {
 .work-header {
   color: #393436;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .about-header {
