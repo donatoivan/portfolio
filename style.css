@@ -43,7 +43,7 @@ h1 {
   
 .navbar {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
   height: 40px;
   padding-top: 22px;
@@ -68,14 +68,14 @@ ul {
 }
   
 .logo {
-  color: white;
+  color: #CACACA;
   text-decoration: none;
   font-size: 2em
 }
   
 .logo:hover {
   color: black;
-  transform: scale(1.1);
+  /* transform: scale(1.1); */
 }
   
 .nav-item a:hover {
