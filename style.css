@@ -326,6 +326,60 @@ li a:hover {
   text-align: center;
   font-size: 40px;
 }
+
+#bootstrap-icon {
+  color: #d6d6d6;
+}
+
+#bootstrap-icon:hover {
+  color: #5a3f7d;
+}
+
+#css-icon {
+  color: #d6d6d6;
+}
+
+#css-icon:hover {
+  color: #448fc4;
+}
+#git-icon {
+  color: #d6d6d6;
+}
+
+#git-icon:hover {
+  color: #f14a2a;
+}
+#html-icon {
+  color: #d6d6d6;
+}
+
+#html-icon:hover {
+  color: #e34927;
+}
+
+#js-icon {
+  color: #d6d6d6;
+}
+
+#js-icon:hover {
+  color: #eedb5a;
+}
+
+#rails-icon {
+  color: #d6d6d6;
+}
+
+#rails-icon:hover {
+  color: #a52745;
+}
+#ruby-icon{
+  color: #d6d6d6;
+}
+
+#ruby-icon:hover {
+  color: #d70003;
+}
+
 .shimmer {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
