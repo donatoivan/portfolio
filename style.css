@@ -100,12 +100,13 @@ li a:hover {
   height: 425px;
   justify-content: flex-start;
   align-items: flex-end;
-  font-size: 35px;
+  font-size: 30px;
   padding-left: 15px;
+  margin-bottom: 10px;
 }
 
 .paragraphs {
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
   
 .white-text {
@@ -304,14 +305,14 @@ li a:hover {
 
 .about-text {
   height: 450px;
-  width: 700px;
+  width: 900px;
   text-align: left;
   line-height: 1.4;
   margin-left: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .about-me {
@@ -394,4 +395,90 @@ a.about-me-link {
 
 a.about-me-link:hover {
   text-decoration: none;
+}
+
+.contact-container {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  height: 400px;
+  width: 600px;
+  background: #D9D7D9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 22px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 300px;
+  width:400px;
+}
+
+.input {
+  width: 250px;
+}
+
+.pair {
+  margin-bottom: 15px;
+  display: flex;
+}
+
+label {
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+#message {
+  margin-right: 23px;
+  height: 200px;
+}
+
+#email {
+  margin-left: 2px;
+}
+
+.form-icons {
+  width: 100%;
+  /* background: blue; */
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.contact-icons {
+  margin: 0px 10px;
+}
+
+.github {
+  height: 40px;
+  width: 40px;
+  background-image: url("./github.png");
+  background-size: cover;
+}
+
+.linkedin {
+  height: 40px;
+  width: 40px;
+  background-image: url("./linkedin-black.png");
+  background-size: cover;
+}
+
+.twitter {
+  height: 40px;
+  width: 40px;
+  background-image: url("./twitter.png");
+  background-size: cover;
+  /* margin-right: 10px; */
 }
