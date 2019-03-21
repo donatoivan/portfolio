@@ -447,7 +447,8 @@ a.about-me-link:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-right: 22px;
+  /* margin-right: 22px; */
+  margin-top: 30px;
 }
 
 form {
