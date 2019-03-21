@@ -526,7 +526,7 @@ textarea {
 
 @media screen and (max-width: 375px) {
   
-  .button {
+  .close {
     -webkit-appearance: none;
     border-radius: 0;
   }
