@@ -398,6 +398,7 @@ li a:hover {
 #rails-icon:hover {
   color: #a52745;
 }
+
 #ruby-icon{
   color: #d6d6d6;
 }
@@ -512,7 +513,7 @@ label {
   
   .navbar {
     font-size: 16px;
-    margin-left: 25px;
+    margin-left: 40px;
   }
 
   .logo {
@@ -603,7 +604,7 @@ label {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 125px;
+    height: 35px;
     margin-bottom: 10px;
   }
   .white-text {
@@ -622,6 +623,67 @@ label {
     font-size: 18px;
   }
 
+  .about-header {
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 38px;
+    font-size: 18px;
+  }
 
+  .about-container {
+    width: 100%;
+  }
 
+  .about-text {
+    width: 300px;
+    height: 408px;
+    font-size: 12px;
+  }
+
+  .icons {
+    font-size: 20px;
+    margin-bottom: 
+  }
+
+  #bootstrap-icon {
+    color: #5a3f7d;
+  }
+  
+  #css-icon {
+    color: #448fc4;
+  }
+
+  #git-icon {
+    color: #f14a2a;
+  }
+
+  #js-icon {
+    color: #eedb5a;
+  }
+
+  #rails-icon:hover {
+    color: #a52745;
+  }
+
+  #rails-icon {
+    color: #a52745;
+  }
+  #html-icon {
+    color: #e34927;
+  }
+
+  #ruby-icon {
+    color: #d70003;
+  }
+
+  .mobile-logo3 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+  
 }
