@@ -606,7 +606,6 @@ label {
     height: 125px;
     margin-bottom: 10px;
   }
-
   .white-text {
     font-size: 12px;
   }
@@ -618,6 +617,11 @@ label {
   .white-text-modal {
     font-size: 12px;
   }
+
+  .white-text-home {
+    font-size: 18px;
+  }
+
 
 
 }
