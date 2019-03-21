@@ -3,6 +3,10 @@
   font-family: 'Roboto', serif;
 }
 
+a {
+  outline: 0;
+}
+
 body {
   line-height: 1.2;
 }
@@ -10,7 +14,7 @@ body {
 h1 {
   font-size: 2rem;
 }
-  
+
 /* Background */
 
 .background-container-home {
@@ -54,6 +58,9 @@ h1 {
   display: none;
 }
 
+.mobile-logo2 {
+  display: none;
+}
 
 ul {
   display: flex;
@@ -176,7 +183,7 @@ li a:hover {
 }
 
 .work1-text {
-  height: 190px;
+  height: 200px;
   background: #868385;
   width: 100%;
   display: flex;
@@ -227,7 +234,7 @@ li a:hover {
   margin-right: 38px;
 }
 
-.overlay {
+/* .overlay {
   position: absolute;
   bottom: 100%;
   left: 0;
@@ -238,11 +245,24 @@ li a:hover {
   width: 100%;
   height:0;
   transition: .5s ease;
+} */
+
+#work-anchor:hover {
+  /* bottom: 0;
+  height: 100%; */
+  text-decoration: none;
 }
 
-.container:hover .overlay {
-  bottom: 0;
-  height: 100%;
+#work-anchor2:hover {
+  /* bottom: 0;
+  height: 100%; */
+  text-decoration: none;
+}
+
+#work-anchor3:hover {
+  /* bottom: 0;
+  height: 100%; */
+  text-decoration: none;
 }
 
 .text {
@@ -489,8 +509,10 @@ label {
 }
 
 @media screen and (max-width: 375px) {
+  
   .navbar {
     font-size: 16px;
+    margin-left: 10px;
   }
 
   .logo {
@@ -536,6 +558,7 @@ label {
   .content-container {
     display: block;
     height: 600px;
+    margin-top: 15px;
   }
 
   .work1 {
@@ -547,11 +570,12 @@ label {
   }
 
   .work1-content {
-    height: 150px;
+    height: 130px;
+    margin-bottom: 13px;
   }
 
   .work1-text {
-    height: 150px;
+    height: 130px;
   }
 
   .work2-photo {
@@ -559,17 +583,40 @@ label {
   }
 
   .work2-content {
-    height: 150px;
+    height: 130px;
     margin: 0px;
     margin-bottom: 15px;
   }
 
   .work3-content {
-    height: 150px;
+    height: 130px;
   }
 
   .container {
     height: 170px;
+  }
+
+  .mobile-logo2 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+    margin-bottom: 10px;
+  }
+
+  .white-text {
+    font-size: 12px;
+  }
+
+  .modal-content {
+    width: 300px;
+  }
+
+  .white-text-modal {
+    font-size: 12px;
   }
 
 
