@@ -25,7 +25,7 @@ h1 {
   
 .background-about {
   height: 100vh;
-  background: #FFFEFF;
+  background: white;
 }
 
 .background-contact {
@@ -49,6 +49,11 @@ h1 {
   margin-right: 22px;
   list-style: none;
 }
+
+.mobile-logo {
+  display: none;
+}
+
 
 ul {
   display: flex;
@@ -151,8 +156,8 @@ li a:hover {
   height: 400px;
   margin-bottom: 30px;
   background: white;
-  border: 5px solid black;
-  border-radius: 5px;
+  /* border: 5px solid black; */
+  /* border-radius: 5px; */
 }
 
 .work1-photo {
@@ -186,8 +191,8 @@ li a:hover {
   height: 400px;
   margin-bottom: 30px;
   background: #ffffff;
-  border: 5px solid black;
-  border-radius: 5px;
+  /* border: 5px solid black; */
+  /* border-radius: 5px; */
 }
 
 
@@ -196,7 +201,7 @@ li a:hover {
   height: 400px;
   margin-bottom: 30px;
   background: white;
-  border: 5px solid black;
+  /* border: 5px solid black; */
   border-radius: 5px;
 }
 
@@ -481,4 +486,91 @@ label {
   background-image: url("./twitter.png");
   background-size: cover;
   /* margin-right: 10px; */
+}
+
+@media screen and (max-width: 375px) {
+  .navbar {
+    font-size: 16px;
+  }
+
+  .logo {
+    /* font-size: 30px; */
+    display: none;
+  }
+
+  .about-content {
+    font-size: 18px;
+  }
+
+  .mobile-logo {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+
+  i.mob {
+    color:#CACACA;
+  }
+
+  i.mob:hover {
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+  }
+
+  .work-header {
+    color: #393436;
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 38px;
+    font-size: 18px;
+  }
+
+  .logo-rest {
+    display: none;
+  }
+
+  .content-container {
+    display: block;
+    height: 600px;
+  }
+
+  .work1 {
+    margin-bottom: 5px;
+  }
+
+  .work1-photo {
+    display: none;
+  }
+
+  .work1-content {
+    height: 150px;
+  }
+
+  .work1-text {
+    height: 150px;
+  }
+
+  .work2-photo {
+    display: none;
+  }
+
+  .work2-content {
+    height: 150px;
+    margin: 0px;
+    margin-bottom: 15px;
+  }
+
+  .work3-content {
+    height: 150px;
+  }
+
+  .container {
+    height: 170px;
+  }
+
+
 }
