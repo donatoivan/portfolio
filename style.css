@@ -496,7 +496,11 @@ textarea {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
+  
+}
 
+.pair {
+  margin-right: 40px;
 }
 
 .contact-icons {
@@ -725,7 +729,7 @@ textarea {
     border: 0;
   }
 
-  .form-icons {
+  .pair {
     margin-right: 40px;
   }
 
