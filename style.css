@@ -708,6 +708,10 @@ textarea {
     color: #d70003;
   }
 
+  .shimmer:hover {
+    color: #656565;
+  }
+
   .mobile-logo3 {
     color: #CACACA;
     text-decoration: none;
