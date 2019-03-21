@@ -496,6 +496,7 @@ textarea {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
+
 }
 
 .contact-icons {
@@ -722,6 +723,10 @@ textarea {
     width: 200px;
     border-radius: 0px;
     border: 0;
+  }
+
+  .form-icons {
+    margin-right: 40px;
   }
 
   .mobile-logo4 {
