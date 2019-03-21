@@ -24,7 +24,7 @@ h1 {
   
 .background-container-work {
   height: 100vh;
-  background: #F1F0F1
+  background: rgb(88, 88, 88)
 }
   
 .background-about {
@@ -191,7 +191,7 @@ li a:hover {
 }
 
 .work1-text {
-  height: 200px;
+  height: 400px;
   background: #868385;
   width: 100%;
   display: flex;
@@ -199,6 +199,7 @@ li a:hover {
   justify-content: center;
   align-items: center;
   padding: 15px;
+  font-size: 17px;
 }
   
 .work2-content {
