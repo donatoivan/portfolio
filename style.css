@@ -503,6 +503,13 @@ textarea {
   margin-right: 40px;
 }
 
+.submit {
+  height: 40px;
+  background: #ffffff;
+  color: rgb(109, 109, 109);
+  border: 0px;
+}
+
 .contact-icons {
   margin: 0px 10px;
 }
