@@ -468,13 +468,20 @@ label {
   margin-right: 10px;
 }
 
+textarea {
+  border: 0px;
+  text-decoration: none;
+  resize: none;
+  width: 249px;
+}
+
 #message {
   margin-right: 23px;
-  height: 200px;
+  /* height: 200px; */
 }
 
 #email {
-  margin-left: 2px;
+  margin-left: 3px;
 }
 
 .form-icons {
@@ -609,7 +616,7 @@ label {
     justify-content: center;
     align-items: center;
     height: 35px;
-    margin-bottom: 10px;
+    margin-bottom: 10px;   
   }
   .white-text {
     font-size: 12px;
@@ -686,7 +693,34 @@ label {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 108px;
+  }
+
+  .contact-header {
+    font-size: 18px;
+  }
+
+  .contact-container {
+    width: 100%;
+  }
+
+  .form-container {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .input {
+    width: 200px;
+  }
+
+  .mobile-logo4 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
   }
   
 }
