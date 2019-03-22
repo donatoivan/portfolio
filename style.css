@@ -586,7 +586,7 @@ textarea {
 }
 
 .submit {
-  height: 40px;
+  height: 30px;
   /* background: #ffffff; */
   background: white;
   /* color: rgb(109, 109, 109); */
@@ -888,6 +888,11 @@ textarea {
   .form-container {
     width: 100%;
     margin: 0px;
+    height: 450px;
+  }
+
+  .form-icons {
+    margin-top: 28px;
   }
 
   .input {
@@ -913,6 +918,10 @@ textarea {
 
   i.mob4 {
     color: #A8D0E6;
+  }
+
+  .mob-contact-nav {
+    margin-bottom: 20px;
   }
   
 }
