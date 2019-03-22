@@ -1,0 +1,60 @@
+.icons {
+  text-align: center;
+  font-size: 40px;
+}
+
+#bootstrap-icon {
+  color: #F8E9A1;
+}
+
+#bootstrap-icon:hover {
+  color: #F76C6C;
+}
+
+#css-icon {
+  color: #F8E9A1;
+}
+
+#css-icon:hover {
+  color: #F76C6C;
+}
+
+#git-icon {
+  color: #F8E9A1;
+}
+
+#git-icon:hover {
+  color: #F76C6C;
+}
+
+#html-icon {
+  color: #F8E9A1;
+}
+
+#html-icon:hover {
+  color: #F76C6C;
+}
+
+#js-icon {
+  color: #F8E9A1;
+}
+
+#js-icon:hover {
+  color: #F76C6C;
+}
+
+#rails-icon {
+  color: #F8E9A1;
+}
+
+#rails-icon:hover {
+  color: #F76C6C;
+}
+
+#ruby-icon{
+  color: #F8E9A1;
+}
+
+#ruby-icon:hover {
+  color: #F76C6C;
+}
