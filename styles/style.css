@@ -2,6 +2,7 @@
 @import "navbar.css";
 @import "logo.css";
 @import "icons.css";
+@import "form.css";
 
 * {
   margin: 0;
@@ -48,7 +49,7 @@ h1 {
   font-size: 30px;
 }
    
-.content-container {
+.content-container-work {
   width: 100%;
   height: 500px;
   display: grid;
@@ -155,13 +156,6 @@ h1 {
   text-decoration: none;
 }
 
-.container {
-  position: relative;
-  width: 100%;
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
 .group {
   display: flex;
   justify-content: space-between;
@@ -237,141 +231,6 @@ a.about-me-link:hover {
   text-decoration: none;
 }
 
-.contact-container {
-  width: 100%;
-  height: 500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.form-container {
-  height: 350px;
-  width: 600px;
-  /* background: #D9D7D9; */
-  /* background: #F76C6C; */
-  background: #A8D0E6;;
-  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* margin-right: 22px; */
-  margin-top: 30px;
-}
-
-form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height: 300px;
-  width:400px;
-}
-
-.input {
-  width: 250px;
-}
-
-.pair {
-  margin-bottom: 15px;
-  display: flex;
-}
-
-label {
-  margin-top: 5px;
-  margin-right: 10px;
-}
-
-textarea {
-  border: 0px;
-  text-decoration: none;
-  resize: none;
-  width: 249px;
-}
-
-#message {
-  margin-right: 23px;
-  /* height: 200px; */
-}
-
-#email {
-  margin-left: 3px;
-}
-
-.form-icons {
-  width: 100%;
-  /* background: blue; */
-  height: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 20px;
-  
-}
-
-.pair {
-  margin-right: 40px;
-}
-
-.submit {
-  height: 30px;
-  /* background: #ffffff; */
-  background: white;
-  /* color: rgb(109, 109, 109); */
-  color: #A8D0E6;
-  border: 0px;
-}
-
-.form-icons {
-  margin: 0px 10px;
-}
-
-.github {
-  height: 40px;
-  width: 40px;
-  /* background-image: url("./github.png"); */
-  background-size: cover;
-}
-
-#github {
-  color: white;
-  font-size: 40px;
-  margin: 0px 10px;
-  margin-top: 8px;
-}
-
-#github:hover {
-  text-decoration: none;
-}
-
-
-.linkedin {
-  height: 40px;
-  width: 40px;
-  /* background-image: url("./whirte-linkedin2.png"); */
-  background-size: cover;
-}
-
-#linkedin {
-  color: white;
-  font-size: 40px;
-  margin: 0px 10px;
-}
-
-.twitter {
-  height: 40px;
-  width: 40px;
-  background-image: url("./twitter.png");
-  background-size: cover;
-  /* margin-right: 10px; */
-}
-
-#twitter {
-  color: white;
-  font-size: 40px;
-  margin: 0px 10px;
-}
-
 /* iphone x media query */
 
 @media screen and (max-width: 375px) {
@@ -387,7 +246,6 @@ textarea {
   }
 
   .logo {
-    /* font-size: 30px; */
     display: none;
   }
 
@@ -396,7 +254,6 @@ textarea {
   }
 
   .mobile-logo {
-    /* color: #CACACA; */
     text-decoration: none;
     font-size: 40px;
     display: flex;
@@ -406,12 +263,10 @@ textarea {
   }
 
   i.mob {
-    /* color:#CACACA; */
     color: white;
   }
 
   i.mob:hover {
-    /* color: rgb(46, 46, 46); */
     color: white;
     text-decoration: none;
   }
@@ -478,7 +333,6 @@ textarea {
   }
 
   .mobile-logo2 {
-    /* color: #CACACA; */
     text-decoration: none;
     font-size: 40px;
     display: flex;
@@ -537,7 +391,6 @@ textarea {
   }
 
   #bootstrap-icon {
-    /* color: #5a3f7d; */
     color: #F8E9A1;
   }
 
@@ -546,7 +399,6 @@ textarea {
   }
   
   #css-icon {
-    /* color: #448fc4; */
     color: #F8E9A1;
   }
 
@@ -555,7 +407,6 @@ textarea {
   }
 
   #git-icon {
-    /* color: #f14a2a; */
     color: #F8E9A1;
   }
 
@@ -564,7 +415,6 @@ textarea {
   }
 
   #js-icon {
-    /* color: #eedb5a; */
     color: #F8E9A1;
   }
 
@@ -573,7 +423,6 @@ textarea {
   }
 
   #rails-icon {
-    /* color: #a52745; */
     color: #F8E9A1;
   }
 
@@ -582,7 +431,6 @@ textarea {
   }
 
   #html-icon {
-    /* color: #e34927; */
     color: #F8E9A1;
   }
 
@@ -591,7 +439,6 @@ textarea {
   }
 
   #ruby-icon {
-    /* color: #d70003; */
     color: #F8E9A1;
   }
 
@@ -703,7 +550,6 @@ textarea {
   }
 
   i.mob:hover {
-    /* color: rgb(46, 46, 46); */
     color: #F76C6C;
     text-decoration: none;
   }
