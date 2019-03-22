@@ -1,0 +1,38 @@
+/* Navbar */
+  
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 90px;
+  padding: 0px 16px;
+  font-size: 20px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: white;
+  margin-right: 22px;
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  margin: 0px;
+}
+
+.a-header {
+  color: white;
+}
+
+li a:hover {
+  color: #F76C6C;
+  text-decoration: none;
+}
+
+.work-nav {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+}

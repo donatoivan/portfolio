@@ -1,0 +1,70 @@
+
+.mobile-logo {
+  display: none;
+}
+
+.mobile-logo2 {
+  display: none;
+}
+
+.mobile-logo3 {
+  display: none;
+}
+
+.mobile-logo4 {
+  display: none;
+}
+   
+.logo {
+  color: white;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+.logo:hover {
+  color: #F76C6C;
+}
+
+.logo-rest {
+  color: #CACACA;
+  text-decoration: none;
+  font-size: 40px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.logo-work {
+  color: #24305E;
+  text-decoration: none;
+  font-size: 40px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.logo-work:hover {
+  color: #F76C6C;
+}
+
+.logo-about {
+  color: #F8E9A1;
+  text-decoration: none;
+  font-size: 40px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.logo-about:hover {
+   color: #F76C6C;
+}
+
+.logo-contact {
+ color: #A8D0E6;
+ text-decoration: none;
+ font-size: 40px;
+ margin-left: 15px;
+ margin-top: 10px;
+}
+
+.logo-contact:hover {
+  color: white;
+}
