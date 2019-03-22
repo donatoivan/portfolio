@@ -716,6 +716,7 @@ textarea {
   .logo-contact {
     display: none;
   }
+
   .content-container {
     display: block;
     height: 600px;
@@ -809,7 +810,7 @@ textarea {
   .about-text {
     width: 300px;
     height: 408px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .icons {
@@ -960,6 +961,10 @@ textarea {
     visibility: hidden; 
   }
 
+  .logo-work {
+    visibility: hidden;
+  }
+
   .about-content {
     font-size: 22px;
   }
@@ -1048,6 +1053,10 @@ textarea {
     margin-bottom: 10px;   
   }
 
+  i.mob2 {
+    color: #24305E;
+  }
+
   .white-text {
     font-size: 12px;
   }
@@ -1081,39 +1090,68 @@ textarea {
     font-size: 14px;
   }
 
+  .logo-about {
+    visibility: hidden;
+  }
+
   .icons {
     font-size: 24px;
   }
 
   #bootstrap-icon {
-    color: #5a3f7d;
+    color: #F8E9A1;
+  }
+
+  #bootstrap-icon:hover {
+    color: #F8E9A1;
   }
   
   #css-icon {
-    color: #448fc4;
+    color: #F8E9A1;
+  }
+
+  #css-icon:hover {
+    color: #F8E9A1;
   }
 
   #git-icon {
-    color: #f14a2a;
+    color: #F8E9A1;
+  }
+
+  #git-icon:hover {
+    color: #F8E9A1;
   }
 
   #js-icon {
-    color: #eedb5a;
+    color: #F8E9A1;;
   }
 
-  #rails-icon:hover {
-    color: #a52745;
+  #js-icon:hover {
+    color:#F8E9A1;
   }
 
   #rails-icon {
-    color: #a52745;
+    color: #F8E9A1;
   }
+
+  #rails-icon:hover {
+    color: #F8E9A1;
+  }
+
   #html-icon {
-    color: #e34927;
+    color: #F8E9A1;
+  }
+
+  #html-icon:hover {
+    color: #F8E9A1;
   }
 
   #ruby-icon {
-    color: #d70003;
+    color: #F8E9A1;
+  }
+
+  #ruby-icon:hover {
+    color: #F8E9A1;
   }
 
   .shimmer:hover {
@@ -1128,6 +1166,10 @@ textarea {
     justify-content: center;
     align-items: center;
     height: 173px;
+  }
+
+  i.mob3 {
+    color: #F8E9A1;
   }
 
   .contact-header {
@@ -1162,6 +1204,14 @@ textarea {
     align-items: center;
     height: 30px;
     margin-top: 65px;
+  }
+
+  .logo-contact {
+    visibility: hidden;
+  }
+
+  i.mob4 {
+    color: #A8D0E6;
   }
 
 }
