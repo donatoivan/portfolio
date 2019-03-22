@@ -713,6 +713,9 @@ textarea {
     display: none;
   }
 
+  .logo-contact {
+    display: none;
+  }
   .content-container {
     display: block;
     height: 600px;
