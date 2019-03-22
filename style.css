@@ -5,14 +5,11 @@
 
 body {
   overflow-x: hidden;
+  line-height: 1.2;
 }
 
 a {
   outline: 0;
-}
-
-body {
-  line-height: 1.2;
 }
 
 h1 {
@@ -183,6 +180,10 @@ li a:hover {
   margin: 0;
   /* color: white; */
   color: rgb(255, 255, 255);
+}
+
+.heading {
+  font-size: 30px;
 }
    
 .content-container {
