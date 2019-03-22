@@ -112,7 +112,6 @@ h1 {
   background: #ffffff;
 }
 
-
 .work3-content {
   width: 70%;
   height: 365px;
@@ -291,7 +290,7 @@ a.about-me-link:hover {
     display: none;
   }
 
-  .content-container {
+  .content-container-work {
     display: block;
     height: 600px;
     margin-top: 15px;
@@ -566,7 +565,7 @@ a.about-me-link:hover {
     display: none;
   }
 
-  .content-container {
+  .content-container-work {
     display: block;
     height: 600px;
     margin-top: 15px;
