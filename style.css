@@ -3,6 +3,10 @@
   font-family: 'Roboto', serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 a {
   outline: 0;
 }
@@ -167,8 +171,8 @@ li a:hover {
 }
   
 .work1-content {
-  width: 80%;
-  height: 400px;
+  width: 70%;
+  height: 365px;
   margin-bottom: 30px;
   background: white;
   /* border: 5px solid black; */
@@ -191,7 +195,7 @@ li a:hover {
 }
 
 .work1-text {
-  height: 400px;
+  height: 365px;
   background: #868385;
   width: 100%;
   display: flex;
@@ -203,8 +207,8 @@ li a:hover {
 }
   
 .work2-content {
-  width: 80%;
-  height: 400px;
+  width: 70%;
+  height: 365px;
   margin-bottom: 30px;
   background: #ffffff;
   /* border: 5px solid black; */
@@ -213,8 +217,8 @@ li a:hover {
 
 
 .work3-content {
-  width: 80%;
-  height: 400px;
+  width: 70%;
+  height: 365px;
   margin-bottom: 30px;
   background: white;
   /* border: 5px solid black; */
@@ -538,6 +542,8 @@ textarea {
   /* margin-right: 10px; */
 }
 
+/* iphone x media query */
+
 @media screen and (max-width: 375px) {
   
   .close {
@@ -641,6 +647,7 @@ textarea {
     height: 100px;
     margin-bottom: 10px;   
   }
+
   .white-text {
     font-size: 12px;
   }
@@ -757,4 +764,226 @@ textarea {
     margin-top: 65px;
   }
   
+}
+
+/* ipad media query */
+
+@media screen and (max-width: 800px) and (min-width: 376px) {
+  .close {
+    -webkit-appearance: none;
+    border-radius: 0;
+  }
+
+  .navbar {
+    font-size: 18px;
+    margin-left: 40px;
+  }
+
+  .logo {
+    visibility: hidden; 
+  }
+
+  .about-content {
+    font-size: 22px;
+  }
+
+  .mobile-logo {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+
+  i.mob {
+    color:#CACACA;
+  }
+
+  i.mob:hover {
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+  }
+
+  .work-header {
+    color: #393436;
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 38px;
+    font-size: 18px;
+  }
+
+  .logo-rest {
+    display: none;
+  }
+
+  .content-container {
+    display: block;
+    height: 600px;
+    margin-top: 15px;
+  }
+
+  .work1 {
+    margin-bottom: 5px;
+  }
+
+  .work1-photo {
+    display: none;
+  }
+
+  .work1-content {
+    height: 130px;
+    margin-bottom: 13px;
+  }
+
+  .work1-text {
+    height: 130px;
+  }
+
+  .work2-photo {
+    display: none;
+  }
+
+  .work2-content {
+    height: 130px;
+    margin: 0px;
+    margin-bottom: 15px;
+  }
+
+  .work3-content {
+    height: 130px;
+  }
+
+  .container {
+    height: 170px;
+  }
+
+  .mobile-logo2 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 10px;   
+  }
+
+  .white-text {
+    font-size: 12px;
+  }
+
+  .modal-content {
+    width: 300px;
+  }
+
+  .white-text-modal {
+    font-size: 12px;
+  }
+
+  .white-text-home {
+    font-size: 18px;
+  }
+
+  .about-header {
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 38px;
+    font-size: 18px;
+  }
+
+  .about-container {
+    width: 100%;
+  }
+
+  .about-text {
+    width: 300px;
+    height: 408px;
+    font-size: 14px;
+  }
+
+  .icons {
+    font-size: 24px;
+  }
+
+  #bootstrap-icon {
+    color: #5a3f7d;
+  }
+  
+  #css-icon {
+    color: #448fc4;
+  }
+
+  #git-icon {
+    color: #f14a2a;
+  }
+
+  #js-icon {
+    color: #eedb5a;
+  }
+
+  #rails-icon:hover {
+    color: #a52745;
+  }
+
+  #rails-icon {
+    color: #a52745;
+  }
+  #html-icon {
+    color: #e34927;
+  }
+
+  #ruby-icon {
+    color: #d70003;
+  }
+
+  .shimmer:hover {
+    color: #656565;
+  }
+
+  .mobile-logo3 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 173px;
+  }
+
+  .contact-header {
+    font-size: 18px;
+  }
+
+  .contact-container {
+    width: 100%;
+  }
+
+  .form-container {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .input {
+    width: 200px;
+    border-radius: 0px;
+    border: 0;
+  }
+
+  .pair {
+    margin-right: 40px;
+  }
+
+  .mobile-logo4 {
+    color: #CACACA;
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    margin-top: 65px;
+  }
+
 }
