@@ -136,8 +136,16 @@ li a:hover {
  .logo-about:hover {
    color: #F76C6C;
  }
-.logo-rest:hover {
-  color: rgb(46, 46, 46);
+.logo-contact {
+ color: #A8D0E6;
+ text-decoration: none;
+ font-size: 40px;
+ margin-left: 15px;
+ margin-top: 10px;
+}
+
+.logo-contact:hover {
+  color: white;
 }
 
 .work-nav {
@@ -609,6 +617,11 @@ textarea {
   color: white;
   font-size: 40px;
   margin: 0px 10px;
+  margin-top: 8px;
+}
+
+#github:hover {
+  text-decoration: none;
 }
 
 
