@@ -62,5 +62,7 @@ I found a library which is driven by CSS called 'Animate On Scroll'. (https://gi
 
 It's very similar to Wow.js, a Javascript plugin that reveals elements as you scroll, but I felt that using Wow would be beyond the scope of the assignment. I reasoned that as AOS was css driven, using it would be comparable to using Font Awesome or Bootstrap. It was very helpful in providing some wow(sorry) responses from some text subjects that I showed my website to.
 
-###
+### Inspiration
+
+
 
