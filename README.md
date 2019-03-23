@@ -4,7 +4,11 @@
 # Ivan Donato - Portfolio
 
 
-This is my portfolio webdite written in Html and Css for our Term 1 Assessment at Coder Academy
+This is my portfolio website written in HTML and CSS for our Term 1 Assessment at Coder Academy. I enjoyed designing and executing the website and am hopeful that it displays not only my relevant skills in HTML and CSS, but also provide a glimpse into my personality as well.
+
+Portfoli URL: www.donato.dev
+Github Repository: https://github.com/donatoivan/portfolio
+
 
 ## Table of Contents
 * [Motivation & Inspiration](#Motivation-&-Inspiration)
