@@ -14,13 +14,15 @@ Github Repository: https://github.com/donatoivan/portfolio
 
 
 ## Table of Contents
-* [Motivation](#Motivation)
-* [Design Process](#Design-Process)
-* [Inspiration](#Inspiration)
-* [Features](#Features)
-* [Technical](#Technical)
-* [Screenshots](#Screenshots)
-* [Authors](#Authors)
+* [Motivation](#motivation)
+* [Design Process](#design-process)
+  * [Structure & Sitemap](#structure-and-sitemap)
+  * [Inspiration](#inspiration)
+  * [Colour](#colour)
+* [Features](#features)
+* [Technical](#technical)
+* [Screenshots](#screenshots)
+* [Authors](#authors)
 
 
 
@@ -41,10 +43,24 @@ As stated on my portfolio website, I'm incredibly interested in narrative partic
 
 I wanted to tell a sparse story. I wanted to tell a minimalist story. I wanted to create the look of elegance, convey the efficiency of simplicity and instill the feeling of wonder in the user when they visited my website.
 
-What became clear to me was that I needed to make my website as dynamic as possible. I found a javascript library which is driven by CSS called 'Animate On Scroll'. It's very similar to Wow.js, a Javascript plugin that reveals elements as you scroll, but I felt that using Wow would be beyond the scope of the assignment. I reasoned that as it was css driven, using AOS would be comparable to using Font Awesome or Bootstrap. It was very helpful in providing some wow(sorry) responses to some text subjects that I showed my website to.
+### Structure and Sitemap
+
+It became very clear to me very early why planning is seen as crucial when it comes to building a website. The particularities of HTML and CSS are such that they are proned to snowballing and what was once a simple idea can become quite finicky and complex. I was therefore glad that our teachers enforced us to make use of Figma for planning and design before finalising any code.
+
+I settled on this simple page structure:
+
+<img src="./images/sitemap.png">
 
 I knew from the beginning that I wanted to make my website single-page-scroll. It seemd like the natural thing to implement considering we had mobile and tablet compatibility to consider.
 
-The thing I felt the strongest about was the hero colour for my website; I wanted it to be grey.
+It must be noted that even though Home is seen as the parent page, which it is, the website has a single page structure whereby you can access all other pages from Home. You can also access Home from all the other pages by pressing on a button.
+Extending on my philosophy of simplicity, I wanted to make the layout as stripped back as possible.
 
+What became clear to me was that if I wanted to make the structure as simple as possibele, I needed to make my website as dynamic as I could. I loved this idea of having things move as the user scrolls through the page and was keen on implementing this in my page.
+
+I found a library which is driven by CSS called 'Animate On Scroll'. (https://github.com/michalsnik/aos)
+
+It's very similar to Wow.js, a Javascript plugin that reveals elements as you scroll, but I felt that using Wow would be beyond the scope of the assignment. I reasoned that as AOS was css driven, using it would be comparable to using Font Awesome or Bootstrap. It was very helpful in providing some wow(sorry) responses from some text subjects that I showed my website to.
+
+###
 
