@@ -16,9 +16,9 @@ Github Repository: https://github.com/donatoivan/portfolio
 ## Table of Contents
 * [Motivation](#Motivation)
 * [Design Process](#Design-Process)
- * [Structure & Sitemap](#Structure-&-Sitemap)
- * [Inspiration](#Inspiration)
- * [Colour](#Colour)
+ * [Structure & Sitemap](#structure-&-sitemap)
+ * [Inspiration](#inspiration)
+ * [Colour](#colour)
 * [Features](#Features)
 * [Technical](#Technical)
 * [Screenshots](#Screenshots)
