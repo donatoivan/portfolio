@@ -41,6 +41,14 @@ As stated on my portfolio website, I'm incredibly interested in narrative partic
 
 I wanted to tell a sparse story. I wanted to tell a minimalist story. I wanted to create the look of elegance, convey the efficiency of simplicity and instill the feeling of wonder in the user when they visited my website.
 
+### Structure and Sitemap
+
+It became very clear to me very early why planning is seen as crucial when it comes to building a website. The particularities of HTML and CSS are such that they are proned to snowballing and what was once a simple idea can become quite finicky and complex. I was therefore glad that our teachers enforced us to make use of Figma for planning and design before finalising any code.
+
+I settled on this simple page structure:
+
+<img src="./images/sitemap.png">
+
 What became clear to me was that I needed to make my website as dynamic as possible. I found a javascript library which is driven by CSS called 'Animate On Scroll'. It's very similar to Wow.js, a Javascript plugin that reveals elements as you scroll, but I felt that using Wow would be beyond the scope of the assignment. I reasoned that as it was css driven, using AOS would be comparable to using Font Awesome or Bootstrap. It was very helpful in providing some wow(sorry) responses to some text subjects that I showed my website to.
 
 I knew from the beginning that I wanted to make my website single-page-scroll. It seemd like the natural thing to implement considering we had mobile and tablet compatibility to consider.
