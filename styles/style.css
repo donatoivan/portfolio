@@ -120,7 +120,6 @@ h1 {
   border-radius: 5px;
 }
 
-
 .work-header {
   color: #24305E;
   text-align: center;
@@ -228,6 +227,10 @@ a.about-me-link {
 
 a.about-me-link:hover {
   text-decoration: none;
+}
+
+.second-paragraph-about {
+  margin-top: 25px;
 }
 
 /* iphone x media query */
