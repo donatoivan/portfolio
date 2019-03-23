@@ -2,25 +2,20 @@
 
 .background-container-home {
   height: 100vh;
-  /* background: #AFAFAF; */
   background: #A8D0E6
 }
   
 .background-container-work {
   height: 100vh;
-  /* background: rgb(88, 88, 88); */
   background: white;
 }
   
 .background-about {
   height: 100vh;
-  /* background: white; */
   background: #A8D0E6;
 }
 
 .background-contact {
   height: 100vh;
-  /* background: #AFAFAF; */
-  /* background: white; */
   background: #F76C6C;
 }
