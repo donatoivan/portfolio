@@ -533,8 +533,12 @@ a.about-me-link:hover {
     visibility: hidden;
   }
 
-  .about-content {
-    font-size: 24px;
+  /* .about-content {
+    font-size: 30px;
+  } */
+
+  .white-text-home {
+    font-size: 26px;
   }
 
   .mobile-logo {
@@ -544,7 +548,7 @@ a.about-me-link:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 300px;
+    height: 400px;
   }
 
   i.mob {
@@ -636,9 +640,9 @@ a.about-me-link:hover {
     font-size: 12px;
   }
 
-  .white-text-home {
+  /* .white-text-home {
     font-size: 18px;
-  }
+  } */
 
   .about-header {
     text-align: center;
