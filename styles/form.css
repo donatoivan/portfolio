@@ -73,10 +73,6 @@ textarea {
   border: 0px;
 }
 
-.form-icons {
-  margin: 0px 10px;
-}
-
 .github {
   height: 40px;
   width: 40px;
@@ -86,7 +82,7 @@ textarea {
 #github {
   color: white;
   font-size: 40px;
-  margin: 0px 10px;
+  margin: 0px 12px;
   margin-top: 8px;
 }
 
@@ -104,7 +100,7 @@ textarea {
 #linkedin {
   color: white;
   font-size: 40px;
-  margin: 0px 10px;
+  margin: 0px 12px;
 }
 
 .twitter {
@@ -117,5 +113,5 @@ textarea {
 #twitter {
   color: white;
   font-size: 40px;
-  margin: 0px 10px;
+  margin: 0px 12px;
 }
