@@ -86,6 +86,8 @@ Again, I wanted to play with where I wanted the focus to be on each page, either
 
 And this is how I optimized the design for mobile and tablet: 
 
+<img src="./images/total-wire.png">
+
 
 ### Colour
 
