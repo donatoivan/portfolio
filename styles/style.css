@@ -604,11 +604,7 @@ a.about-me-link:hover {
   .work3-content {
     height: 180px;
   }
-
-  .modal-content {
-    width: 400px;
-  }
-
+  
   .container {
     height: 180px;
   }
@@ -633,7 +629,7 @@ a.about-me-link:hover {
   }
 
   .modal-content {
-    width: 300px;
+    width: 400px;
   }
 
   .white-text-modal {
