@@ -84,6 +84,9 @@ It follows that I used this same process to create the remaining three pages. He
 
 Again, I wanted to play with where I wanted the focus to be on each page, either centre or off-centre. I also wanted each page to be unique but be part of that same story. Using the simple structure and classic colour tones, I wanted to tell the user that the person responsible for the portfolio website was both elegant and contained.
 
+And this is how I optimized the design for mobile and tablet: 
+
+
 ### Colour
 
 But then I kept staring at the grey. And I kept staring and staring and something didn't feel right. When I was able to aritculate what my issue was with the colour palette I had chosen, it all became clear to me; I was leaving out a whole way to communicate with the user. I hadn't explored a whole dimension that I could use to express my self. I was missing colour.
