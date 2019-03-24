@@ -69,7 +69,11 @@ I also wanted to explore classic and classy colours. I was drawn more and more t
 
 <img src="./images/grey-palette.png">
 
-And below is the implementation of both on my home page:
+And below is the implementation of both structure and colour on my home page:
+
+<img src="./images/grey-home.png">
+
+
 
 
 
