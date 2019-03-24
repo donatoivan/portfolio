@@ -56,6 +56,9 @@ I knew from the beginning that I wanted to make my website single-page-scroll. I
 It must be noted that even though Home is seen as the parent page, which it is, the website has a single page structure whereby you can access all other pages from Home. You can also access Home from all the other pages by pressing on a button.
 Extending on my philosophy of simplicity, I wanted to make the layout as stripped back as possible.
 
+
+
+
 What became clear to me was that if I wanted to make the structure as simple as possibele, I needed to make my website as dynamic as I could. I loved this idea of having things move as the user scrolls through the page and was keen on implementing this in my page.
 
 I found a library which is driven by CSS called 'Animate On Scroll'. (https://github.com/michalsnik/aos)
@@ -64,5 +67,5 @@ It's very similar to Wow.js, a Javascript plugin that reveals elements as you sc
 
 ### Inspiration
 
-
+<img src="./images/grey-moodboard.png">
 
