@@ -145,6 +145,10 @@ I should add that all hover elements were removed for both the mobile and tablet
 
 Using Trello really made the management of this project all the easier. The ability to list things that need to be done and then dragging them acroos to the completed section is really satisfying, but also really helpful in determining the order of importance. Here is an example of my trello board:
 
+<img src="./images/trello.png">
+
+
+
 
 
 
