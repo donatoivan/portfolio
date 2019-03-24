@@ -96,7 +96,7 @@ But then I kept staring at the grey. And I kept staring and staring and somethin
 As much as I was seeking elegance and class. I also wanted the user to get the impression that I was fun.
 I love fun. I am fun. And the colour grey isn't the best way to communicate that. So I explored colour.
 
-<img src="./images/pastel.png">
+<img src="./images/pastel-true.png">
 
 I found this to be a colour palette that I was drawn to but I felt that it was too soft. I needed something a bit more bold. This is what I came around to using:
 
