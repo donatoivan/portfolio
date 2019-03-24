@@ -21,8 +21,8 @@ Github Repository: https://github.com/donatoivan/portfolio
   * [Colour](#colour)
 * [Features](#features)
 * [Project Management](#project-management)
-* [History & Theory Of The Internet](#history-&-theory-of-the-internet)
-  * [History & Theory Of The Internet](#history-&-theory-of-the-internet)
+* [History and Theory Of The Internet](#history-and-theory-of-the-internet)
+  * [History and Theory Of The Internet](#history-and-theory-of-the-internet)
   * [Domains, Web Servers, DNS, Web Browsers](#domains,-web-servers,-dns,-web-browsers)
   * [Wifi](#wifi)
  
