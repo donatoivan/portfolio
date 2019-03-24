@@ -89,7 +89,9 @@ Again, I wanted to play with where I wanted the focus to be on each page, either
 But then I kept staring at the grey. And I kept staring and staring and something didn't feel right. When I was able to aritculate what my issue was with the colour palette I had chosen, it all became clear to me; I was leaving out a whole way to communicate with the user. I hadn't explored a whole dimension that I could use to express my self. I was missing colour.
 
 As much as I was seeking elegance and class. I also wanted the user to get the impression that I was fun.
-I love fun. I am fun. And the colour grey isn't the best way to communicate that.
+I love fun. I am fun. And the colour grey isn't the best way to communicate that. So I explored colour.
+
+
 
 
 
