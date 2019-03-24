@@ -20,6 +20,7 @@ Github Repository: https://github.com/donatoivan/portfolio
   * [Inspiration](#inspiration)
   * [Colour](#colour)
 * [Features](#features)
+* [Project Management](#project-management)
 
 
 
@@ -138,6 +139,15 @@ My about me page is my favourite page. Not only does each letter appear and diff
 The contact page has the form appearing in the centre of the page once the user scrolls down, giving it the focus it deserves and drawiing the user's attention to it.
 
 I should add that all hover elements were removed for both the mobile and tablet versions of my website.
+
+
+## Project Management
+
+Using Trello really made the management of this project all the easier. The ability to list things that need to be done and then dragging them acroos to the completed section is really satisfying, but also really helpful in determining the order of importance. Here is an example of my trello board:
+
+
+
+
 
 
 
