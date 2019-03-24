@@ -625,7 +625,7 @@ a.about-me-link:hover {
   }
 
   .white-text {
-    font-size: 12px;
+    font-size: 22px;
   }
 
   .modal-content {
@@ -633,12 +633,8 @@ a.about-me-link:hover {
   }
 
   .white-text-modal {
-    font-size: 16px;
+    font-size: 15px;
   }
-
-  /* .white-text-home {
-    font-size: 18px;
-  } */
 
   .about-header {
     text-align: center;
