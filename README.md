@@ -18,6 +18,7 @@ Github Repository: https://github.com/donatoivan/portfolio
 * [Design Process](#design-process)
   * [Structure & Sitemap](#structure-and-sitemap)
   * [Inspiration](#inspiration)
+  * [Colour](#colour)
 * [Features](#features)
 * [Technical](#technical)
 * [Screenshots](#screenshots)
@@ -72,6 +73,23 @@ I also wanted to explore classic and classy colours. I was drawn more and more t
 And below is the implementation of both structure and colour on my home page:
 
 <img src="./images/grey-home.png">
+
+It follows that I used this same process to create the remaining three pages. Here they are:
+
+<img src="./images/grey-work.png">
+
+<img src="./images/grey-about.png">
+
+<img src="./images/grey-contact.png">
+
+Again, I wanted to play with where I wanted the focus to be on each page, either centre or off-centre. I also wanted each page to be unique but be part of that same story. Using the simple structure and classic colour tones, I wanted to tell the user that the person responsible for the portfolio website was both elegant and contained.
+
+### Colour
+
+But then I kept staring at the grey. And I kept staring and staring and something didn't feel right. When I was able to aritculate what my issue was with the colour palette I had chosen, it all became clear to me; I was leaving out a whole way to communicate with the user. I hadn't explored a whole dimension that I could use to express my self. I was missing colour.
+
+As much as I was seeking elegance and class. I also wanted the user to get the impression that I was fun.
+I love fun. I am fun. And the colour grey isn't the best way to communicate that.
 
 
 
