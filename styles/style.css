@@ -521,7 +521,7 @@ a.about-me-link:hover {
   }
 
   .navbar {
-    font-size: 20px;
+    font-size: 22px;
     margin-left: 40px;
   }
 
@@ -532,10 +532,6 @@ a.about-me-link:hover {
   .logo-work {
     visibility: hidden;
   }
-
-  /* .about-content {
-    font-size: 30px;
-  } */
 
   .white-text-home {
     font-size: 26px;
@@ -565,7 +561,7 @@ a.about-me-link:hover {
     text-align: center;
     padding-top: 20px;
     margin-right: 38px;
-    font-size: 18px;
+    font-size: 22px;
   }
 
   .logo-rest {
@@ -574,7 +570,7 @@ a.about-me-link:hover {
 
   .content-container-work {
     display: block;
-    height: 600px;
+    height: 700px;
     margin-top: 15px;
   }
 
@@ -587,12 +583,12 @@ a.about-me-link:hover {
   }
 
   .work1-content {
-    height: 130px;
+    height: 180px;
     margin-bottom: 13px;
   }
 
   .work1-text {
-    height: 130px;
+    height: 180px;
   }
 
   .work2-photo {
@@ -600,17 +596,21 @@ a.about-me-link:hover {
   }
 
   .work2-content {
-    height: 130px;
+    height: 180px;
     margin: 0px;
     margin-bottom: 15px;
   }
 
   .work3-content {
-    height: 130px;
+    height: 180px;
+  }
+
+  .modal-content {
+    width: 400px;
   }
 
   .container {
-    height: 170px;
+    height: 180px;
   }
 
   .mobile-logo2 {
