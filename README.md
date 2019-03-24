@@ -156,9 +156,31 @@ Using Trello really made the management of this project all the easier. The abil
 
 ### History and Theory of the Internet
 
+In 1969, the researchers for DARPA sent the first data packet between systems using ARPANET which eventually evolved to become the modern internet. By the end of 1971, there were 15 different nodes across the US.
+
+In 1971, e-mail was invented and the very next year, transmission control protocol was created which established how data is transferred. By the mid-nineteen-seventies, first international ARPANET connections were made to England and Norway. It was followed by other networks in US departments of Energy and NASA.
+
+More and more networks began to come into the limelight throughout the eighties all across the US. In 1989, Tim Bernes-Lee invented the World Wide Web at the Sun Physics Laboratory in Switzerland. The internet went public in 1990 which provided a standard for computers to interact with each other. First dial-up internet service was launched in Brookline Massachusetts in 1993 followed by the first search engine launch in the same year.
+
+By the end of year 1994, there were 11 million people in the USA using the internet and in 1996, Nokia released the first internet phone. By the year 2000, there were 1,000,000,000 (1 billion) unique web pages. By 2012, there were 1 billion users on Facebook.
+
 ### Domains, Web Servers, DNS and Web Browsers
 
+A web browser is software installed on a computer that enables users to browse the web. A web server is a computer which hosts a website.
+
+When we enter a domain name, which is the web address into an internet browser. The browser first translates the domain name into an IP address of a website. The browser checks the computer's cache for DNS records that match the domain name entered.
+
 ### Wifi
+
+Wi-Fi technology today is found everywhere, and the means for making it fast and reliable was an Australian invention.
+It is the same wireless network technology that allows our phones, computers and other technologies to connect to the internet reliably and at fast speeds.
+
+Today the technology is so widespread there are far, far more Wi-Fi devices than there are human beings; by 2020, there will be an estimated 40 billion devices worldwide. Twenty years ago (on January 23, 1996) CSIRO’s patent for a method of creating a fast and reliable Wireless Local Area Network (WLAN) was approved in the US.
+
+Since then, the CSIRO has made more than $420 million from the invention (not adjusted for inflation), making it the organisation's best performing commercial enterprise.
+
+
+
 
 
 
