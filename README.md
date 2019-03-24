@@ -21,6 +21,11 @@ Github Repository: https://github.com/donatoivan/portfolio
   * [Colour](#colour)
 * [Features](#features)
 * [Project Management](#project-management)
+* [History & Theory of the Internet](#history-&-theory-of-the-internet)
+ * [History & Theory of the Internet](#history-&-theory-of-the-internet)
+ * [Domains, Web Servers, DNS, Web Browsers](#domains, web-servers, dns, web-browsers)
+ * [Wifi](#wifi)
+ 
 
 
 
@@ -143,9 +148,19 @@ I should add that all hover elements were removed for both the mobile and tablet
 
 ## Project Management
 
-Using Trello really made the management of this project all the easier. The ability to list things that need to be done and then dragging them acroos to the completed section is really satisfying, but also really helpful in determining the order of importance. Here is an example of my trello board:
+Using Trello really made the management of this project all the easier. The ability to list things that need to be done and then dragging them acroos to the completed section is really satisfying, but also really helpful in determining the order of importance. Here is an example of my trello board halfway thorugh the build:
 
 <img src="./images/trello.png">
+
+## History & Theory of the Internet
+
+### History & Theory of the Internet
+
+### Domains, Web Servers, DNS, Web Browsers
+
+### Wifi
+
+
 
 
 
