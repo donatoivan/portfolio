@@ -62,6 +62,10 @@ Extending on my philosophy of simplicity, I wanted to make the layout as strippe
 
 I sourced images for my moodboard that evoked a sense of emptiness and eternity. A lot of the images above also toy with all their main elements being off centre. I liked this enough to want to implement this in my design. Below is my early sketch of my home page using the off centre idea:
 
+<img src="./images/wireframe.png">
+
+My thought was that I wanted a short welcome message to be the hero of the Home page. I wanted to page section links to be in the top right-hand corner not as noticeable as the welcome message, but still present. I also wanted a home button to be preent on every page. I thought it would be good for this to live in the top-left corner, where most Home button instinctivley live. Thgis home button would alse serve as a great transition for mobile and tablet devices, except i would have the button appear at centre-bottom of the se devices. 
+
 
 
 I also wanted to explore classic and classy styles. This idea drew me closer to a grey colour palette.
