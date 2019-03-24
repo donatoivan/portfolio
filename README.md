@@ -127,5 +127,19 @@ On my home page I wanted both the welcome message and the page-links to appear a
 
 <img src="./images/work-gif2.gif">
 
+With my work page, I wanted to have the elements come together towards the centre and then have modal windows pop-up when the user clicked on one of my projects. I used Boostrap4 for the modal windows.
+
+<img src="./images/about-gif.gif">
+
+My about me page is my favourite page. Not only does each letter appear and different intervals (which I hardcoded ofr each individual letter), but once the user hovers over the letters, each one of them changes colour individually. As an easter egg, I give people the opportunityto download my performing arts CV in case they don't belive my backstory (which happens a lot). Hovering over the icons representing my skillset also makes them change colour.
+
+<img src="./images/contact-gif.gif">
+
+The contact page has the form appearing in the centre of the page once the user scrolls down, giving it the focus it deserves and drawiing the user's attention to it.
+
+I should add that all hover elements were removed for both the mobile and tablet versions of my website.
+
+
+
 
 
