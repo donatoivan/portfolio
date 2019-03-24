@@ -8,7 +8,7 @@ This is my portfolio website written in HTML and CSS for our Term 1 Assessment a
 
 I enjoyed designing and executing the website and am hopeful that it displays not only my relevant skills in HTML and CSS, but also provide a glimpse into my personality as well.
 
-Portfolio URL: https://www.donato.dev
+Portfolio URL: https://donato.dev
 
 Github Repository: https://github.com/donatoivan/portfolio
 
