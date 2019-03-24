@@ -95,6 +95,10 @@ I love fun. I am fun. And the colour grey isn't the best way to communicate that
 
 I found this to be a colour palette that I was drawn to but I felt that it was too soft. I needed something a bit more bold. This is what I came around to using:
 
+<img src="./images/final.png">
+
+I loved that some of these colours were bold, and yet the light blue and the yellow were very gentle. This is how I implemented them in my final design.
+
 <img src="./images/blue-home.png">
 
 <img src="./images/blue-work.png">
@@ -103,6 +107,7 @@ I found this to be a colour palette that I was drawn to but I felt that it was t
 
 <img src="./images/blue-contact.png">
 
+I was very happy with my change of hear regarding colour
 
 
 
