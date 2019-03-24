@@ -22,9 +22,9 @@ Github Repository: https://github.com/donatoivan/portfolio
 * [Features](#features)
 * [Project Management](#project-management)
 * [History & Theory of the Internet](#history-&-theory-of-the-internet)
- * [History & Theory of the Internet](#history-&-theory-of-the-internet)
- * [Domains, Web Servers, DNS, Web Browsers](#domains, web-servers, dns, web-browsers)
- * [Wifi](#wifi)
+  * [History & Theory of the Internet](#history-&-theory-of-the-internet)
+  * [Domains, Web Servers, DNS, Web Browsers](#domains, web-servers, dns, web-browsers)
+  * [Wifi](#wifi)
  
 
 
