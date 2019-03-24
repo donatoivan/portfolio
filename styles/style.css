@@ -521,7 +521,7 @@ a.about-me-link:hover {
   }
 
   .navbar {
-    font-size: 18px;
+    font-size: 20px;
     margin-left: 40px;
   }
 
@@ -534,7 +534,7 @@ a.about-me-link:hover {
   }
 
   .about-content {
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .mobile-logo {
@@ -544,7 +544,7 @@ a.about-me-link:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 300px;
   }
 
   i.mob {
