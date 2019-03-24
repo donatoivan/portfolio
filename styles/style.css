@@ -557,7 +557,7 @@ a.about-me-link:hover {
   }
 
   .work-header {
-    color: #393436;
+    color: #24305E;
     text-align: center;
     padding-top: 20px;
     margin-right: 38px;
@@ -610,7 +610,6 @@ a.about-me-link:hover {
   }
 
   .mobile-logo2 {
-    color: #CACACA;
     text-decoration: none;
     font-size: 40px;
     display: flex;
