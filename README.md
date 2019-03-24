@@ -123,5 +123,9 @@ I used on a few key elements on each page:
 
 <img src="./images/home-gif.gif">
 
+On my home page I wanted both the welcome message and the page-links to appear as the user loaded the page. I consciously made the button in the top left stationary. I thought it would be nice if it was a consistent presence on every page.
+
+<img src="./images/work-gif2.gif"
+
 
 
