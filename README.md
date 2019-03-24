@@ -18,7 +18,6 @@ Github Repository: https://github.com/donatoivan/portfolio
 * [Design Process](#design-process)
   * [Structure & Sitemap](#structure-and-sitemap)
   * [Inspiration](#inspiration)
-  * [Colour](#colour)
 * [Features](#features)
 * [Technical](#technical)
 * [Screenshots](#screenshots)
@@ -66,7 +65,15 @@ I sourced images for my moodboard that evoked a sense of emptiness and eternity.
 
 My thought was that I wanted a short welcome message to be the hero of the Home page on the bottom left. I wanted the page-section links to be in the top right-hand corner not as noticeable as the welcome message, but still present. I also wanted a home button to be preent on every page. I thought it would be good for this to live in the top-left corner, where most Home button instinctivley live. Thgis home button would alse serve as a great transition for mobile and tablet devices, except i would have the button appear at centre-bottom of these devices. 
 
-I also wanted to explore classic and classy colours. I was drawn more and more to a grey colour palette, possibly because of my fascination with the above images.
+I also wanted to explore classic and classy colours. I was drawn more and more to a grey colour palette, possibly because of my fascination with the above images. This was the colours I came to use:
+
+<img src="./images/grey-palette.png">
+
+And below is the implementation of both on my home page:
+
+
+
+
 
 What became clear to me was that if I wanted to make the structure as simple as possibele, I needed to make my website as dynamic as I could. I loved this idea of having things move as the user scrolls through the page and was keen on implementing this in my page.
 
@@ -74,7 +81,4 @@ I found a library which is driven by CSS called 'Animate On Scroll'. (https://gi
 
 It's very similar to Wow.js, a Javascript plugin that reveals elements as you scroll, but I felt that using Wow would be beyond the scope of the assignment. I reasoned that as AOS was css driven, using it would be comparable to using Font Awesome or Bootstrap. It was very helpful in providing some wow(sorry) responses from some text subjects that I showed my website to.
 
-
-
-<img src="./images/grey-moodboard.png">
 
