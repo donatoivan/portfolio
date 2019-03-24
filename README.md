@@ -152,9 +152,9 @@ Using Trello really made the management of this project all the easier. The abil
 
 <img src="./images/trello.png">
 
-## History & Theory of the Internet
+## History and Theory of the Internet
 
-### History & Theory of the Internet
+### History and Theory of the Internet
 
 ### Domains, Web Servers, DNS, Web Browsers
 
