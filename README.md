@@ -64,15 +64,9 @@ I sourced images for my moodboard that evoked a sense of emptiness and eternity.
 
 <img src="./images/wireframe.png">
 
-My thought was that I wanted a short welcome message to be the hero of the Home page. I wanted to page section links to be in the top right-hand corner not as noticeable as the welcome message, but still present. I also wanted a home button to be preent on every page. I thought it would be good for this to live in the top-left corner, where most Home button instinctivley live. Thgis home button would alse serve as a great transition for mobile and tablet devices, except i would have the button appear at centre-bottom of the se devices. 
+My thought was that I wanted a short welcome message to be the hero of the Home page on the bottom left. I wanted the page-section links to be in the top right-hand corner not as noticeable as the welcome message, but still present. I also wanted a home button to be preent on every page. I thought it would be good for this to live in the top-left corner, where most Home button instinctivley live. Thgis home button would alse serve as a great transition for mobile and tablet devices, except i would have the button appear at centre-bottom of these devices. 
 
-
-
-I also wanted to explore classic and classy styles. This idea drew me closer to a grey colour palette.
-
-A lot of the omages above also toy with main elements being off centre. I like this enough to want to implement this in my design. 
-
-This was 
+I also wanted to explore classic and classy colours. I was drawn more and more to a grey colour palette, possibly because of my fascination with the above images.
 
 What became clear to me was that if I wanted to make the structure as simple as possibele, I needed to make my website as dynamic as I could. I loved this idea of having things move as the user scrolls through the page and was keen on implementing this in my page.
 
