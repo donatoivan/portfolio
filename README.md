@@ -23,7 +23,7 @@ Github Repository: https://github.com/donatoivan/portfolio
 * [Project Management](#project-management)
 * [History and Theory Of The Internet](#history-and-theory-of-the-internet)
   * [History and Theory Of The Internet](#history-and-theory-of-the-internet)
-  * [Domains, Web Servers, DNS, Web Browsers](#domains,-web-servers,-dns,-web-browsers)
+  * [Domains, Web Servers, DNS and Web Browsers](#domains, web-servers, dns and web-browsers)
   * [Wifi](#wifi)
  
 
@@ -156,7 +156,7 @@ Using Trello really made the management of this project all the easier. The abil
 
 ### History and Theory of the Internet
 
-### Domains, Web Servers, DNS, Web Browsers
+### Domains, Web Servers, DNS and Web Browsers
 
 ### Wifi
 
