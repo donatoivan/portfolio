@@ -33,6 +33,7 @@ form {
 .pair {
   margin-bottom: 15px;
   display: flex;
+  margin-right: 50px;
 }
 
 label {
@@ -63,10 +64,6 @@ textarea {
   align-items: center;
   margin-top: 20px;
   
-}
-
-.pair {
-  margin-right: 40px;
 }
 
 .submit {
