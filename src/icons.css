@@ -1,60 +1,108 @@
 .icons {
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 #bootstrap-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #bootstrap-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
 #css-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #css-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
 #git-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #git-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
 #html-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #html-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
 #js-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #js-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
 #rails-icon {
-  color: #F8E9A1;
+  color: #f8e9a1;
 }
 
 #rails-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
 }
 
-#ruby-icon{
-  color: #F8E9A1;
+#ruby-icon {
+  color: #f8e9a1;
 }
 
 #ruby-icon:hover {
-  color: #F76C6C;
+  color: #f76c6c;
+}
+
+#react-icon {
+  color: #f8e9a1;
+}
+
+#react-icon:hover {
+  color: #f76c6c;
+}
+
+#node-icon {
+  color: #f8e9a1;
+}
+
+#node-icon:hover {
+  color: #f76c6c;
+}
+
+#express-icon {
+  color: #f8e9a1;
+}
+
+#express-icon:hover {
+  color: #f76c6c;
+}
+
+#docker-icon {
+  color: #f8e9a1;
+}
+
+#docker-icon:hover {
+  color: #f76c6c;
+}
+
+#java-icon {
+  color: #f8e9a1;
+}
+
+#java-icon:hover {
+  color: #f76c6c;
+}
+
+#ts-icon {
+  color: #f8e9a1;
+}
+
+#ts-icon:hover {
+  color: #f76c6c;
 }
