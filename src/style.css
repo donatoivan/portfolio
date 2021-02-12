@@ -22,6 +22,15 @@ h1 {
   font-size: 2rem;
 }
 
+#thoughtworks {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+#thoughtworks:hover {
+  color: #f76c6c;
+}
+
 .about-content {
   display: flex;
   height: 425px;
